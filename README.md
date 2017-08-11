@@ -9,6 +9,8 @@
 
 ### 首页
 
+---
+
 **接口：** /api/v1.0/default?page=1&state=index
 
 **字段：**
@@ -17,6 +19,8 @@
 
 
 ### 推荐
+
+---
 
 **接口：** /api/v1.0/default?page=1&state=hot
 
@@ -27,6 +31,8 @@
 
 ### 最好
 
+---
+
 **接口：** /api/v1.0/default?page=1&state=best
 
 **字段：**
@@ -35,6 +41,8 @@
 
 
 ### 更多： 
+
+---
 
 **接口：** /api/v1.0/default?page=1&state=more
 
@@ -45,6 +53,8 @@
 
 ### 最新： 
 
+---
+
 **接口：** /api/v1.0/default?page=1&state=created
 
 **字段：**
@@ -53,6 +63,8 @@
 
 
 ### 推荐标签：
+
+---
 
 **接口：** /api/v1.0/default?page=页数&state=tag&tagid=标签ID
 
