@@ -162,3 +162,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 其`sources`数组中`src`字段数值`http://cdn.looklook.space/videos/1/154177/154177.240p.m3u8?v=1.1`即是视频`m3u8`地址！根据`m3u8`规范，我们可以复制地址到浏览器地址栏，将地址后缀`m3u8`改成`ts`。
 
 例如：http://cdn.looklook.space/videos/1/154177/154177.240p.ts?v=1.1 ，回车即可实现视频下载，绕过网站会员直接下载视频。
+
+## License
+
+The code is available under the [MIT license](https://opensource.org/licenses/MIT).
