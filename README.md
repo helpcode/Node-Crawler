@@ -6,8 +6,8 @@
 
 请勿传播，本人不承担任何的后果，如有意见请联系本人。
 
-- QQ：2271608011
-- 博客：geekhelp.cn
+- QQ群：[540144097](http://shang.qq.com/wpa/qunwpa?idkey=1c684eb6c3d6b32ac50b0d179096ed64124b9db577add0319b7b1a96a0235656)
+- 博客：[geekhelp.cn](http://geekhelp.cn/)
 
 **觉得不错，请给本项目一个 start，感谢CCTV**
 
