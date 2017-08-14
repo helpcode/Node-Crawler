@@ -128,7 +128,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 ![行为类](http://okkzzhtds.bkt.clouddn.com/xinwei.png)
 
 
-### 如何获取视频播放地址？
+### 如何获取视频下载地址？
 
 ---
 
@@ -142,5 +142,6 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
     }
 
 ```
+其`sources`数组中`src`字段数值`http://cdn.looklook.space/videos/1/154177/154177.240p.m3u8?v=1.1`即是视频`m3u8`地址！根据`m3u8`规范，我们可以复制地址到浏览器地址栏，将地址后缀`m3u8`改成`ts`。
 
-其`sources`数组中`src`字段数值`http://cdn.looklook.space/videos/1/154177/154177.240p.m3u8?v=1.1`即是视频`m3u8`地址！根据`m3u8`规范，我们可以复制地址到浏览器地址栏目，将地址后缀`m3u8`改成`ts`，例如：http://cdn.looklook.space/videos/1/154177/154177.240p.ts?v=1.1 ，回车即可实现视频下载，绕过网站会员直接下载视频。
+例如：http://cdn.looklook.space/videos/1/154177/154177.240p.ts?v=1.1 ，回车即可实现视频下载，绕过网站会员直接下载视频。
