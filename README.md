@@ -9,9 +9,10 @@
 
 ### 数据格式
 
+---
+
 Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络请求是否成功的返回码，前端可根据此字段的返回数值判断执行对应操作。result 字段为请求到的视频数据集合。
 
----
 
 ```javascript
 {
@@ -125,3 +126,21 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 **行为类(17条):**
 
 ![行为类](http://okkzzhtds.bkt.clouddn.com/xinwei.png)
+
+
+### 如何获取视频播放地址？
+
+---
+
+打开任意接口，得到后端返回的数据，然后点击其实`url`字段的数值播放视频，谷歌浏览器`Ctrl + U`查看网页源码，在`script`脚本代码中找到如下代码：
+
+```javascript
+ clip: {
+        sources: [
+            	            	{ type: "application/x-mpegurl", src:"http://cdn.looklook.space/videos/1/154177/154177.240p.m3u8?v=1.1" }
+            	        ]
+    }
+
+```
+
+其`sources`数组中`src`字段数值`http://cdn.looklook.space/videos/1/154177/154177.240p.m3u8?v=1.1`即是视频`m3u8`地址！根据`m3u8`规范，我们可以复制地址到浏览器地址栏目，将地址后缀`m3u8`改成`ts`，例如：http://cdn.looklook.space/videos/1/154177/154177.240p.ts?v=1.1 ，回车即可实现视频下载，绕过网站会员直接下载视频。
