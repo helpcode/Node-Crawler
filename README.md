@@ -51,7 +51,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ---
 
-**接口：** /api/v1.0/default?page=1&state=index
+**接口：** http://106.14.145.68:18080/api/v1.0/default?page=1&state=index
 
 **字段：**
 - page：需要获取的第几页数据
@@ -62,7 +62,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ---
 
-**接口：** /api/v1.0/default?page=1&state=hot
+**接口：** http://106.14.145.68:18080/api/v1.0/default?page=1&state=hot
 
 **字段：**
 - page：需要获取的第几页数据
@@ -73,7 +73,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ---
 
-**接口：** /api/v1.0/default?page=1&state=best
+**接口：** http://106.14.145.68:18080/api/v1.0/default?page=1&state=best
 
 **字段：**
 - page：需要获取的第几页数据
@@ -84,7 +84,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ---
 
-**接口：** /api/v1.0/default?page=1&state=more
+**接口：** http://106.14.145.68:18080/api/v1.0/default?page=1&state=more
 
 **字段：**
 - page：需要获取的第几页数据
@@ -95,7 +95,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ---
 
-**接口：** /api/v1.0/default?page=1&state=created
+**接口：** http://106.14.145.68:18080/api/v1.0/default?page=1&state=created
 
 **字段：**
 - page：需要获取的第几页数据
@@ -106,7 +106,7 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ---
 
-**接口：** /api/v1.0/default?page=页数&state=tag&tagid=标签ID
+**接口：** http://106.14.145.68:18080/api/v1.0/default?page=页数&state=tag&tagid=标签ID
 
 **字段：**
 - page：页数
