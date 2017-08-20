@@ -1,6 +1,6 @@
 ## 声明
 
-![Node-Crawler](http://okkzzhtds.bkt.clouddn.com/9887.png)
+![Node-Crawler](http://okkzzhtds.bkt.clouddn.com/9887.png?imageView2/1/w/397/h/400/q/75|imageslim)
 
 [![Travis](https://img.shields.io/badge/node.js-6.11.1-green.svg)](https://nodejs.org/en/download/)
 [![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)
