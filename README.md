@@ -1,12 +1,10 @@
-## 声明
-
-
 
 <div align=center><img src="http://okkzzhtds.bkt.clouddn.com/9887.png?imageView2/1/w/397/h/400/q/75|imageslim"/></div>
 
 [![Travis](https://img.shields.io/badge/node.js-6.11.1-green.svg)](https://nodejs.org/en/download/)
 [![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)
 
+## 声明
 
 这套API设计初衷只是为了继续学习更多的Node.js爬虫知识，为了所谓的动力所以将目标定为了某些不可描述的网站(男人都懂)。可供个人技术学习，但是请勿随意分享传播给其他人或者第三方。
 
