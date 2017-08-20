@@ -3,7 +3,7 @@
 
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 [![Travis](https://img.shields.io/badge/node.js-6.11.1-green.svg)](https://nodejs.org/en/download/)
-[![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)()
+[![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)
 [![Travis](https://img.shields.io/badge/webpack-3.3.0-red.svg)]()
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
 
