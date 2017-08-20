@@ -1,6 +1,8 @@
 ## 声明
 
 [![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)]()
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=plastic)]()
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat-square)]()
 
 这套API设计初衷只是为了继续学习更多的Node.js爬虫知识，为了所谓的动力所以将目标定为了某些不可描述的网站(男人都懂)。可供个人技术学习，但是请勿随意分享传播给其他人或者第三方。
 
