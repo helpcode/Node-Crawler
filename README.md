@@ -1,9 +1,11 @@
 
 <div align=center><img src="http://okkzzhtds.bkt.clouddn.com/9887.png?imageView2/1/w/397/h/400/q/75|imageslim"/></div>
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg)](https://nodejs.org/en/download/)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 [![Travis](https://img.shields.io/badge/node.js-6.11.1-green.svg)](https://nodejs.org/en/download/)
-[![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)
+[![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)()
+[![Travis](https://img.shields.io/badge/webpack-3.3.0-red.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
 
 ## 声明
 
