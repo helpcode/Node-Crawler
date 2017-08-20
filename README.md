@@ -1,8 +1,8 @@
 ## 声明
 
-[![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)](https://github.com/helpcode/Node-Crawler/edit/master/README.md)
+[![Travis](https://img.shields.io/badge/node.js-6.11.1-green.svg)](https://nodejs.org/en/download/)
+[![Travis](https://img.shields.io/badge/vue-2.8.2-orange.svg)](https://cn.vuejs.org/)
 
-[![npm (3.10.10)](https://img.shields.io/npm/v/npm/next.svg)]()
 
 这套API设计初衷只是为了继续学习更多的Node.js爬虫知识，为了所谓的动力所以将目标定为了某些不可描述的网站(男人都懂)。可供个人技术学习，但是请勿随意分享传播给其他人或者第三方。
 
