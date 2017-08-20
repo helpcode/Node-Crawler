@@ -180,4 +180,6 @@ Node.js后端爬虫返回的数据格式如下，status 字段用于标志网络
 
 ## License
 
-The code is available under the [MIT license](https://opensource.org/licenses/MIT).
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2017-present, Bmy Code
