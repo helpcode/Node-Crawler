@@ -4,8 +4,8 @@
   <a href="https://cn.vuejs.org/"><img src="https://img.shields.io/badge/vue-2.8.2-blue.svg" alt="vuejs"></a>
   <a href="https://nodejs.org/en/download/"><img src="https://img.shields.io/badge/node.js-6.11.1-blue.svg" alt="nodejs"></a>
   <a href="https://webpack.github.io/"><img src="https://img.shields.io/badge/webpack-3.3.0-blue.svg" alt="webpack"></a>
+  <a href="https://github.com/helpcode/Node-Crawler/"><img src="https://img.shields.io/travis/rust-lang/rust.svg" alt="rust"></a>
   <a href="https://img.shields.io/packagist/l/doctrine/orm.svg"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="orm"></a>
-
 
 </p>
 
